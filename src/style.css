@@ -1,0 +1,11 @@
+.password-container {
+  position: relative;
+}
+
+.icon {
+  position: relative;
+  right: 10%;
+}
+.password-input {
+  padding: 5px;
+}
